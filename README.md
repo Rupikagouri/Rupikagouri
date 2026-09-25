@@ -13,7 +13,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=ff4fa3&height=3&section=header"/>
 
-<h3 align="center">⚡ ABOUT THIS UNIT ⚡</h3>
+<h3 align="center">ABOUT ME</h3>
 
 <p align="center">
 &gt; Currently exploring new tech, shipping projects, and leveling up one commit at a time.<br/>
@@ -28,9 +28,9 @@
 name: Rupika Gouri
 role: Developer
 status: building right now
-focus: [web dev, problem solving, hackathons]
+focus: [web dev, problem solving, building applications and models]
 currently_learning: "whatever the next repo needs"
-fun_fact: "low commit count, high commit energy"
+fun_fact: "high commit energy"
 ```
 
 </td>
@@ -58,7 +58,7 @@ fun_fact: "low commit count, high commit energy"
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=ff4fa3&height=3&section=header"/>
 
-<h3 align="center">📊 SYSTEM STATS</h3>
+<h3 align="center">SYSTEM STATS</h3>
 
 <div align="center">
 
@@ -71,7 +71,7 @@ fun_fact: "low commit count, high commit energy"
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=ff4fa3&height=3&section=header"/>
 
-<h3 align="center">📈 ACTIVITY GRID</h3>
+<h3 align="center">ACTIVITY GRID</h3>
 
 <div align="center">
 
@@ -91,4 +91,4 @@ fun_fact: "low commit count, high commit energy"
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c724b1,50:ff4fa3,100:ff006e&height=120&section=footer"/>
 
-<p align="center"><i>thanks for stopping by the grid ⚡</i></p>
+<p align="center"><i>Hey!, btw thanks for stopping by the grid</i></p>
