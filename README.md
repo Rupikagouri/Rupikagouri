@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff006e,50:ff4fa3,100:c724b1&height=180&section=header&text=RUPIKA%20GOURI&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=3000&pause=800&color=FF00E5&center=true&vCenter=true&width=500&height=45&lines=Full-Stack+Developer;Building+at+hackathons;Open+to+collaborate" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=3000&pause=800&color=FF00E5&center=true&vCenter=true&width=500&height=45&lines=Aspiring+Developer;Building+at+hackathons;Open+to+collaborate" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-ff006e?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0014)](https://www.linkedin.com/in/d-rupika-gouri)
 
