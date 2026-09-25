@@ -47,8 +47,8 @@ fun_fact: "high commit energy"
 ![CSS3](https://img.shields.io/badge/CSS3-ff2e93&?style=for-the-badge&logo=css3&logoColor=white&labelColor=1a0014)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ff4fa3?style=for-the-badge&logo=javascript&logoColor=white&labelColor=1a0014)
 ![Python](https://img.shields.io/badge/Python-c724b1?style=for-the-badge&logo=python&logoColor=white&labelColor=1a0014)
-![React](https://img.shields.io/badge/React-ff006e?style=for-the-badge&logo=react&logoColor=white&labelColor=1a0014)
-![Node.js](https://img.shields.io/badge/Node.js-ff2e93?style=for-the-badge&logo=node.js&logoColor=white&labelColor=1a0014)
+![Java](https://img.shields.io/badge/Java-ff2e93?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=1a0014)
+![C++](https://img.shields.io/badge/C%2B%2B-c724b1?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=1a0014)
 ![Git](https://img.shields.io/badge/Git-ff4fa3?style=for-the-badge&logo=git&logoColor=white&labelColor=1a0014)
 ![VS Code](https://img.shields.io/badge/VS%20Code-c724b1?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=1a0014)
 
